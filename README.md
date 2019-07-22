@@ -1,5 +1,5 @@
 # Getting started
-1. First download a text editor to your liking. I personally use Sublime Text. Which you can download at https://www.sublimetext.com/.
+1. First download a text editor to your liking. I personally use VS Code. Which you can download at https://code.visualstudio.com/download.
 
 2. Download this repository for the basic folder structure and materials such as images. 
 
